@@ -1,0 +1,250 @@
+--Name: 2 | 2021-07-22T12:51:27Z
+BoxZone:Create(vector3(-1200.26, -903.94, 13.17), 2, 2, {
+  name="2",
+  heading=305,
+  --debugPoly=true,
+  minZ=11.37,
+  maxZ=15.37
+})
+
+--Name: 2 | 2021-07-22T12:54:38Z
+BoxZone:Create(vector3(-1193.79, -906.66, 14.0), 2, 2, {
+  name="2",
+  heading=350,
+  --debugPoly=true
+})
+
+--Name: 2 | 2021-07-23T13:22:46Z
+CircleZone:Create(vector3(378.09, 6505.94, 28.23), 2.0, {
+  name="2",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: 2 | 2021-07-23T13:23:01Z
+CircleZone:Create(vector3(370.32, 6506.06, 28.17), 2.0, {
+  name="2",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: 2 | 2021-07-23T13:23:11Z
+CircleZone:Create(vector3(370.07, 6517.52, 28.37), 2.0, {
+  name="2",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: 2 | 2021-07-23T13:23:18Z
+CircleZone:Create(vector3(378.26, 6517.46, 28.35), 2.0, {
+  name="2",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: 2 | 2021-07-23T15:07:38Z
+CircleZone:Create(vector3(2474.9, 4446.87, 35.35), 2.0, {
+  name="2",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: 4 | 2021-07-26T23:41:57Z
+BoxZone:Create(vector3(3.61, 6511.67, 31.88), 4, 4, {
+  name="4",
+  heading=310,
+  --debugPoly=true,
+  minZ=29.68,
+  maxZ=33.68
+})
+
+--Name: 1 | 2021-08-01T12:03:19Z
+CircleZone:Create(vector3(-290.28, 2543.16, 75.42), 1.0, {
+  name="1",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: 2 | 2021-08-28T21:10:27Z
+BoxZone:Create(vector3(-679.82, 5838.57, 17.33), 2, 2, {
+  name="2",
+  heading=315,
+  --debugPoly=true,
+  minZ=14.53,
+  maxZ=18.53
+})
+
+--Name: sda | 2021-08-28T21:32:18Z
+CircleZone:Create(vector3(-1095.23, 4882.72, 215.61), 1.6, {
+  name="sda",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: 2 | 2021-08-28T21:35:59Z
+CircleZone:Create(vector3(-680.71, 5838.9, 17.33), 2.0, {
+  name="2",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: 3 | 2021-08-28T21:37:16Z
+BoxZone:Create(vector3(-680.07, 5838.39, 17.33), 1.6, 3, {
+  name="3",
+  heading=225,
+  --debugPoly=true,
+  minZ=13.53,
+  maxZ=17.53
+})
+
+--Name: wash | 2021-08-29T14:49:59Z
+CircleZone:Create(vector3(1969.83, 543.8, 160.96), 2.4, {
+  name="wash",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: smelter | 2021-08-29T14:59:59Z
+CircleZone:Create(vector3(1087.07, -2002.8, 30.87), 2.0, {
+  name="smelter",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: sellwashed | 2021-08-29T16:55:01Z
+CircleZone:Create(vector3(1545.38, 2173.81, 78.77), 1.35, {
+  name="sellwashed",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: mining | 2021-08-29T17:25:47Z
+CircleZone:Create(vector3(2997.91, 2755.04, 43.12), 1.2, {
+  name="mining",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: 2 | 2021-08-30T10:30:53Z
+CircleZone:Create(vector3(-552.2, -1712.97, 18.96), 2.0, {
+  name="2",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: 2 | 2021-08-30T11:01:07Z
+CircleZone:Create(vector3(1109.12, 229.42, -49.64), 1.55, {
+  name="2",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: 2 | 2021-09-01T23:30:19Z
+CircleZone:Create(vector3(-55.14, -1096.85, 26.42), 1.0, {
+  name="2",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: signin | 2021-09-05T22:41:06Z
+BoxZone:Create(vector3(-1190.26, -902.48, 13.98), 0.0, 2, {
+  name="signin",
+  heading=305,
+  --debugPoly=true,
+  minZ=11.18,
+  maxZ=15.18
+})
+
+--Name: 2 | 2021-09-05T22:46:21Z
+BoxZone:Create(vector3(-1190.07, -902.59, 13.98), 0.2, 2, {
+  name="2",
+  heading=305,
+  --debugPoly=true,
+  minZ=11.18,
+  maxZ=15.18
+})
+
+--Name: cooker | 2021-09-05T22:53:10Z
+BoxZone:Create(vector3(-1202.91, -897.24, 13.98), 0.7, 1.5, {
+  name="cooker",
+  heading=305,
+  --debugPoly=true,
+  minZ=10.18,
+  maxZ=14.18
+})
+
+--Name: 1.5 | 2021-09-05T22:57:13Z
+BoxZone:Create(vector3(-1202.84, -897.19, 13.98), 0.5, 1.5, {
+  name="1.5",
+  heading=305,
+  --debugPoly=true,
+  minZ=10.98,
+  maxZ=14.98
+})
+
+--Name: 1 | 2021-09-05T23:03:26Z
+BoxZone:Create(vector3(-1201.97, -898.68, 13.98), 0.8, 1, {
+  name="1",
+  heading=305,
+  --debugPoly=true,
+  minZ=9.98,
+  maxZ=13.98
+})
+
+--Name: tray | 2021-09-05T23:07:01Z
+BoxZone:Create(vector3(-1195.81, -891.5, 13.98), 1, 1, {
+  name="tray",
+  heading=35,
+  --debugPoly=true,
+  minZ=10.38,
+  maxZ=14.38
+})
+
+--Name: tray2 | 2021-09-05T23:08:12Z
+BoxZone:Create(vector3(-1194.86, -893.03, 13.98), 1, 1, {
+  name="tray2",
+  heading=305,
+  --debugPoly=true,
+  minZ=10.58,
+  maxZ=14.58
+})
+
+--Name: drive | 2021-09-05T23:08:46Z
+BoxZone:Create(vector3(-1193.72, -907.24, 13.98), 1, 1, {
+  name="drive",
+  heading=0,
+  --debugPoly=true
+})
+
+--Name: 11 | 2021-09-05T23:13:15Z
+BoxZone:Create(vector3(-1194.86, -892.88, 13.98), 1, 1, {
+  name="11",
+  heading=305,
+  --debugPoly=true,
+  minZ=10.58,
+  maxZ=14.58
+})
+
+--Name: order | 2021-09-05T23:15:48Z
+BoxZone:Create(vector3(-1194.82, -893.0, 13.98), 0.6, 1, {
+  name="order",
+  heading=300,
+  --debugPoly=true,
+  minZ=10.78,
+  maxZ=14.78
+})
+
+--Name: 1 | 2021-09-09T19:40:26Z
+CircleZone:Create(vector3(-26.96, -1089.38, 26.42), 1.0, {
+  name="1",
+  useZ=true,
+  --debugPoly=true
+})
+
+--Name: 1 | 2021-09-13T15:00:07Z
+CircleZone:Create(vector3(-1037.29, -1397.09, 5.55), 1.2, {
+  name="1",
+  useZ=true,
+  --debugPoly=true
+})
+
