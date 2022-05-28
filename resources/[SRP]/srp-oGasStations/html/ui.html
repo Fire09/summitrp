@@ -1,0 +1,49 @@
+<head>
+    <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    <script src="scripts.js" type="text/javascript"></script>
+    <script src="debounce.min.js" type="text/javascript"></script>
+    <link href='https://fonts.googleapis.com/css?family=Quicksand:300,400' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300' rel='stylesheet' type='text/css'>
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+
+
+<body>
+<div class="full-screen" style="position: relative; bottom: 3%; right: 0.5%;">
+    <div class="wrap">
+        <div class="vehicle" > 
+            <div class="speed">
+            <svg width="75" height="75">
+                <circle class="backgroundCircle" stroke="#FFFFFF" stroke-width="5.8" style="stroke-opacity: 0.5" fill="transparent" r="25" cx="38" cy="39" stroke-dasharray="77 53" stroke-dashoffset="0"/>
+                <circle class="progress2 progress-speed" stroke="white" stroke-width="5.8" style="stroke-opacity: 1" fill="transparent" r="25" cx="37" cy="39" stroke-dasharray="77 53" stroke-dashoffset="0"/>
+            </svg>
+            </div>
+            <div class="speedamount" style="position: relative; left: 7px; bottom: 55px;"> 100 </div>
+            <div class="smalltext" style="position: relative; left: 15px; bottom: 54px;"> MPH </div>
+
+            <div class="fuell" style="position: relative; bottom: 80px; left: 67px;">
+                <svg class="circle" width="40" height="40" style="position: relative; bottom: -8px; right: 22px;">
+                <circle class="backgroundCircle" stroke="#FFFFFF" stroke-width="3" style="stroke-opacity: 0.5;" fill="transparent" r="12" cx="20" cy="20" stroke-dasharray="46 20" stroke-dashoffset="0"/>
+                <circle class="progress progress-fuel" stroke="white" stroke-width="3" style="stroke-opacity: 1;" fill="transparent" r="12" cx="20" cy="20" stroke-dasharray="46 20" stroke-dashoffset="0"/>
+                <image href="./gas.png" height="14" width="14" x="13" y="12"></image>
+            </svg>
+        </div>
+            <div class="atlamount left"> 0 </div> <div class="atlamounttxt smalltext left"> FT </div>
+            <!-- <div class="ENGINE left"> <img src='engine.png' width='25px' height='25px'> </div> -->
+            <!-- <div class="FUEL left"> <img src='gas.png' width='25px' height='25px'> </div> -->
+            <div class="harness left"> HARNESS </div>
+            <div class="nos left"> 100 </div> 
+        </div>
+        <div class="street" style="position: relative; bottom: 101vh; left: 38vh;">
+            <div class="direction"><div class="image"></div></div>
+            <div class="street-txt">Los Santos | Wicket St | Hawick</div>
+            </div>
+        </div>
+        <div class="belt left"> <img src='belt.png' style= "position: relative;right: 74px; bottom: 155px;" width='26px' height='26px'> </div>
+        <div class="harness left " style= "position: relative;right: 74px; bottom: 155px;"> HARNESS </div>
+        <div class="nos left" style= "position: relative;right: 74px; bottom: 155px;"> 100 </div> 
+    </div>
+</div>
+</body>
